@@ -1,4 +1,4 @@
-<https://1drv.ms/u/s!AjZ23IVi2m1ZipcmgAup9r1cqofARA?e=K6kyjm/>
+![Captura de Tela (44)](https://user-images.githubusercontent.com/72982326/216187792-a18ab1cb-2a11-4f03-b12a-e094dff14958.png)
 
 <h1 align="center">Ignite: Desafio 01 - Conceitos ReactJS</h1>
 
