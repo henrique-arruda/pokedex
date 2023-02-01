@@ -1,24 +1,23 @@
 ![Captura de Tela (44)](https://user-images.githubusercontent.com/72982326/216187792-a18ab1cb-2a11-4f03-b12a-e094dff14958.png)
 
-<h1 align="center">Ignite: Desafio 01 - Conceitos ReactJS</h1>
+<h1 align="center">Pokedex em Angular</h1>
 
-## :rocket: Sobre o desafio
+## :rocket: Sobre a aplicação
 
-Nesse desafio, criamos uma aplicação de gestão de tarefas.
+Nessa aplicação criei uma pokedex utilizando Angular e para as demais informações de cada
+pokemon utilizei uma API externa.
 
 ## Aplicação
 
-<img alt="Alicação" src="https://i.imgur.com/wRYsfqi.png" />
+![Captura de tela 2023-02-01 200443](https://user-images.githubusercontent.com/72982326/216188208-88a7d673-f84c-48d2-96b0-9c87a5156a23.png)
 
 ## Funcionalidades da aplicação
 
-- Adicionar uma nova tarefa
+- Ver todos os pokemons disponíveis
 
-- Remover uma tarefa
+- Ao clicar no pokemon escolhido consegue ver atributos do mesmo
 
-- Marcar e desmarcar uma tarefa como concluída
-
-
+- Pesquisar cada pokemon que quiser
 
 
 # Pokedex
